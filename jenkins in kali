@@ -10,3 +10,5 @@ sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
 
 optional 
 sudo apt-get install openjdk-11-jdk
+
+https://get.jenkins.io/debian-stable/
